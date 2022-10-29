@@ -1,0 +1,1 @@
+<img src="{{ url('storage/images/site-logo.png') }}" alt="">
